@@ -45,3 +45,8 @@ enableRobotsTXT = true
 [[params.ananke_socials]]
 name = "Youtube"
 url = "https://youtube.com/@hramdonskoye"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
