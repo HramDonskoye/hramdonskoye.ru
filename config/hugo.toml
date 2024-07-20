@@ -1,0 +1,44 @@
+title = "Храм Донское"
+baseURL = "https://hramdonskoye.ru"
+languageCode = "ru-RU"
+theme = ["github.com/theNewDynamic/gohugo-theme-ananke"]
+resourceDir = "../resources"
+
+DefaultContentLanguage = "ru"
+SectionPagesMenu = "main"
+Paginate = 3 # this is set low for demonstrating with dummy content. Set to a higher number
+googleAnalytics = ""
+enableRobotsTXT = true
+
+[languages]
+  [languages.en]
+    title = "Donskoye Temple"
+    weight = 1
+    contentDir = "content/en"
+    # languageDirection = 'rtl' for Right-To-Left languages
+  [languages.ru]
+    title = "Храм Донское"
+    weight = 2
+  [languages.de]
+    title = "Tempel der Don-Ikone der Jungfrau Maria"
+    weight = 3
+    contentDir = "content/de"
+
+[sitemap]
+  changefreq = "weekly"
+  priority = 0.5
+  filename = "sitemap.xml"
+
+[params]
+  text_color = ""
+  author = "Храм Донское"
+  favicon = ""
+  site_logo = ""
+  description = "Вера - мать терпения, мать мужества, сила молитвы, руководительница к смирению, подательница надежды, лестница к престолу любви."
+  # choose a background color from any on this page: https://tachyons.io/docs/themes/skins/ and preface it with "bg-"
+  background_color_class = "bg-washed-yellow"
+  recent_posts_number = 3
+
+[[params.ananke_socials]]
+name = "Youtube"
+url = "https://youtube.com/@hramdonskoye"
