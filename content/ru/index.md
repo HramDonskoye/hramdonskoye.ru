@@ -1,3 +1,7 @@
+---
+title: Храм Донской иконы Божией Матери
+featured_image: hramdonskoye.jpg
+---
 # Храм Донской иконы Божией Матери
 
 ![](https://donskoe.cerkov.ru/wp-content/blogs.dir/10247/files/i-300x300.png)
