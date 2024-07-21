@@ -4,28 +4,12 @@ featured_image: hramdonskoye.jpg
 ---
 # Храм Донской иконы Божией Матери
 
-Храм Донской иконы Божией Матери пoc. ДонскоеСтраница приходаРусская Православная Церковь, Калининградская митрополия, [Калининградская епархия](http://kdeparh.ru/), Приморское благочиние
 
-### Контактная информация
-
-korichenkov@yandex.ru
-
-+7 (921) 612-97-83
-
-Адрес:
-
-238570, Россия, Калининградская обл. Светлогорский район, пос. Донское, ул. Степанова 2а.
-
-- Статус:действующий
-- Язык богослужений:церковнославянский
-- Настоятель:иерей Дионисий Кориченков
-- Престольные праздники:
-  - Донской иконы Божией Матери - Сентябрь 1 \[по н.с.\]
 
 ---
 
-# 20.07.2024
+# 21.07.2024
 
-## Всенощное бдение
+## Казанской иконы Божией Матери
 
-<iframe src="https://vk.com/video_ext.php?oid=861372273&id=456239112&hd=2" width="853" height="480" allow="autoplay; encrypted-media; fullscreen; picture-in-picture; screen-wake-lock;" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://vk.com/video_ext.php?oid=861372273&id=456239113&hd=2" width="853" height="480" allow="autoplay; encrypted-media; fullscreen; picture-in-picture; screen-wake-lock;" frameborder="0" allowfullscreen></iframe>
