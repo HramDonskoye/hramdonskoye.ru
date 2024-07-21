@@ -35,7 +35,7 @@ enableRobotsTXT = true
   author = "Храм Донское"
   favicon = "https://static-00.iconduck.com/assets.00/church-icon-512x512-40uf9frr.png"
   # site_logo = "https://lh3.ggpht.com/p/AF1QipMhN1ydFQZVpGTGt7XfXjNGjlpyq4mbJfhDqdPE=s1536"
-  # site_logo = "hramdonskoye.jpg"
+  site_logo = "hramdonskoye.jpg"
   featured_image = "hramdonskoye.jpg"
   description = "Вера - мать терпения, мать мужества, сила молитвы, руководительница к смирению, подательница надежды, лестница к престолу любви."
   # choose a background color from any on this page: https://tachyons.io/docs/themes/skins/ and preface it with "bg-"
