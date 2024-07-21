@@ -6,24 +6,38 @@ resourceDir = "../resources"
 
 DefaultContentLanguage = "ru"
 SectionPagesMenu = "main"
+sectionPagesMenu = "main"
 Paginate = 3 # this is set low for demonstrating with dummy content. Set to a higher number
 googleAnalytics = ""
 enableRobotsTXT = true
 
+# [menus]
+#   [[menus.main]]
+#     name = 'Контакты'
+#     pageRef = 'contact'
+#     weight = 10
+#   [[menus.main]]
+#     name = 'Трансляция'
+#     pageRef = 'live'
+#     weight = 20
+#   [[menus.main]]
+#     name = 'Требы'
+#     pageRef = 'needs'
+
 [languages]
-  [languages.en]
-    title = "Donskoye Temple"
-    weight = 1
-    contentDir = "content/en"
-    # languageDirection = 'rtl' for Right-To-Left languages
+#   [languages.en]
+#     title = "Donskoye Temple"
+#     weight = 1
+#     contentDir = "content/en"
+#     # languageDirection = 'rtl' for Right-To-Left languages
   [languages.ru]
     title = "Храм Донское"
     contentDir = "content/ru"
     weight = 2
-  [languages.de]
-    title = "Tempel der Don-Ikone der Jungfrau Maria"
-    weight = 3
-    contentDir = "content/de"
+# [languages.de]
+#     title = "Tempel der Don-Ikone der Jungfrau Maria"
+#     weight = 3
+#     contentDir = "content/de"
 
 [sitemap]
   changefreq = "weekly"
@@ -35,7 +49,7 @@ enableRobotsTXT = true
   author = "Храм Донское"
   favicon = "https://static-00.iconduck.com/assets.00/church-icon-512x512-40uf9frr.png"
   # site_logo = "https://lh3.ggpht.com/p/AF1QipMhN1ydFQZVpGTGt7XfXjNGjlpyq4mbJfhDqdPE=s1536"
-  site_logo = "hramdonskoye.jpg"
+  # site_logo = "hramdonskoye.jpg"
   featured_image = "hramdonskoye.jpg"
   description = "Вера - мать терпения, мать мужества, сила молитвы, руководительница к смирению, подательница надежды, лестница к престолу любви."
   # choose a background color from any on this page: https://tachyons.io/docs/themes/skins/ and preface it with "bg-"
@@ -50,3 +64,4 @@ url = "https://youtube.com/@hramdonskoye"
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
+    weight = 30
