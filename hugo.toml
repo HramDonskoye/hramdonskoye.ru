@@ -1,7 +1,7 @@
 title = "Храм Донское"
 baseURL = "https://hramdonskoye.ru"
 languageCode = "ru-RU"
-theme = ["ananke"]
+theme = ["hugo-scroll"]
 resourceDir = "../resources"
 
 DefaultContentLanguage = "ru"
@@ -23,6 +23,9 @@ enableRobotsTXT = true
 #   [[menus.main]]
 #     name = 'Требы'
 #     pageRef = 'needs'
+
+# This is a "one page"-website, so we do not need these kinds of pages...
+disableKinds = ["section", "taxonomy", "term", "RSS", "robotsTXT"]
 
 [languages]
 #   [languages.en]
